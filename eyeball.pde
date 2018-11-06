@@ -38,5 +38,4 @@ ellipse(269,205,39,39);
 fill(17,12,12);
 ellipse(260,205,21,21);
 
-//save function
-save("AIDAN.Eyeball.CrossEyes.Drawing");
+
